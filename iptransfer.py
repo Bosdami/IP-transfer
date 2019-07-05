@@ -2,7 +2,7 @@
 """
 Created on Thu Jul  4 11:47:37 2019
 
-@author: RILGRAIN
+@author: Bosdami
 """
 import json
 
