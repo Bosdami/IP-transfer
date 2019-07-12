@@ -32,23 +32,6 @@ err =[]
 for q in blist:
 
     err.append(rtree.search_best(q))
-    print(err)
+print(err)
 
-#df = pd.DataFrame(err)
-  #  df.to_csv(r'C:\Users\RILGRAIN\export_dataframe.csv', index= False)
-print 
-
-    
- #   pd.to_csv('result.csv')
-#    print(err)
-
-#for x in rnode:
-#    print (x)
-
-#err = []
-#for (r,b) in zip(rnode, blist):
-#for b in blist:
-   # err.append(rtree.search_best(b))    
-
-#print (err)
 
