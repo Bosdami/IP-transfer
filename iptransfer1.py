@@ -33,4 +33,4 @@ for q in newblack:
     err.append(rtree.search_best(q))
 
 
-print(newblack)#prints transferred addresses in the blacklist
+print(err)#prints transferred addresses in the blacklist
